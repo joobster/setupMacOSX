@@ -1,0 +1,4 @@
+setupMacOSX
+===========
+
+Necessary packages
